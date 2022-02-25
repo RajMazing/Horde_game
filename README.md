@@ -1,6 +1,6 @@
 # Horde_game
 
-#
+
 Final Project created by: Casey Bassaragh, Caseyann Goore, and Matija Bozic
 
 #
