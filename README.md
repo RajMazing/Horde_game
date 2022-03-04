@@ -13,4 +13,5 @@ Boilerplate used: https://github.com/Jerga99/platformer-game/tree/293b4fffff7c0a
 
 #
 
-Animations used: 
+Music by : https://jobegiar99.itch.io/
+Assets from : https://rvros.itch.io/ ,  https://luizmelo.itch.io/, 
